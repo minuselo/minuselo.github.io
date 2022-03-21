@@ -343,6 +343,7 @@ main {
 .page__right .page__main .page-slider {
   max-width: 45%;
   position: relative;
+  overflow: hidden;
 }
 
 .page__right .page__main .page-slider .page-slider__slide {
@@ -650,6 +651,7 @@ main {
 
 .prod .prod__main .prod-slider {
   width: 380px;
+  overflow: hidden;
 }
 
 .prod .prod__main .prod-slider .prod-slider__wrapper .prod-slider__slide {
