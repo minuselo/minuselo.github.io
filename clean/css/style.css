@@ -652,6 +652,7 @@ main {
 .prod .prod__main .prod-slider {
   width: 380px;
   overflow: hidden;
+  position: relative;
 }
 
 .prod .prod__main .prod-slider .prod-slider__wrapper .prod-slider__slide {
